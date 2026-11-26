@@ -1,0 +1,6 @@
+# Maintainer identity. Adam can enable it once per clone from the repo root:
+# git config --local --add include.path "$(git rev-parse --show-toplevel)/.gitconfig"
+[user]
+	name = Adam
+	email = lane128@gmail.com
+	useConfigOnly = true
